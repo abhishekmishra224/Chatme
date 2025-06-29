@@ -104,7 +104,5 @@ See LICENSE for more details.
 🙋‍♂️ Author
 Created with passion by [Abhishek Mishra]
 
-🌐 Portfolio
-💼 LinkedIn
-💻 GitHub
+
 
